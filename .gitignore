@@ -1,0 +1,43 @@
+
+Oracle SQL Developer temporary files
+
+1.sqldev
+2.sqlhistory
+3.sqlworkbench
+
+Log files
+
+1.log
+
+Temporary files
+
+1.tmp
+2.temp
+3.bak
+
+
+Operating system files
+
+1.DS_Store
+2 Thumbs.db
+3 desktop.ini
+
+Windows temporary files
+
+1.swp
+2.swo
+
+IDE/editor files
+
+1 .idea/
+2 .vscode/
+
+Oracle export/backup files
+
+1.dmp
+2.exp
+
+Local environment/configuration files
+
+1 .env
+2 .env.
